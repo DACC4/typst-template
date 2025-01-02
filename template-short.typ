@@ -1,6 +1,6 @@
 #import "commons.typ": *
 
-#let project(title: "", subtitle: "HEIG-VD - DAI", authors: ("Christophe",), body) = {
+#let project(title: "", subtitle: "HEIG-VD - template", authors: ("Christophe",), body) = {
   // Set the document's basic properties.
   set document(author: authors, title: title)
   set page(numbering: "1", number-align: center, margin: (left: 3%, right: 3%, top: 3%, bottom: 3%), flipped: true)
